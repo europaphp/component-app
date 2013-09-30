@@ -18,13 +18,13 @@
   },
   "require": {
     "php": ">=5.4.0, <6.0.0",
-    "europaphp/di": "dev-master",
-    "europaphp/exception": "dev-master",
-    "europaphp/filter": "dev-master",
-    "europaphp/module": "dev-master",
-    "europaphp/reflection": "dev-master",
-    "europaphp/request": "dev-master",
-    "europaphp/response": "dev-master",
-    "europaphp/view": "dev-master"
+    "europaphp/component-di": "dev-master",
+    "europaphp/component-exception": "dev-master",
+    "europaphp/component-filter": "dev-master",
+    "europaphp/component-module": "dev-master",
+    "europaphp/component-reflection": "dev-master",
+    "europaphp/component-request": "dev-master",
+    "europaphp/component-response": "dev-master",
+    "europaphp/component-view": "dev-master"
   }
 }
